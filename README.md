@@ -55,4 +55,4 @@ Here are some ideas to get you started:
 [![Coletor de dados de .pdf para .xlsx](https://github.com/alvaro220592/alvaro220592/blob/main/pdf_to_xlsx2.png)](https://youtu.be/5_qdf0ozN5o)
 
 ### Assistir: sistema de login em Laravel Jetstream
-[![Sistema de login com Laravel Jetstream](https://github.com/alvaro220592/alvaro220592/blob/main/laravel-jetstream2.png)](https://youtu.be/EGVpExnAyxg)
+[![Sistema de login com Laravel Jetstream](https://github.com/alvaro220592/alvaro220592/blob/main/laravel-jetstream2.png)](https://youtu.be/cMPRDqOxzkA)

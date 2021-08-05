@@ -54,7 +54,7 @@ Here are some ideas to get you started:
 <!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alvaro220592)](https://github.com/alvaro220592/github-readme-stats)-->
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alvaro220592&layout=compact)](https://github.com/alvaro220592/github-readme-stats)
 
-<div style="text-align:center">
+<div style="text-align:middle">
 <h2>Assista meus projetos pessoais:</h2>
 </div>
   

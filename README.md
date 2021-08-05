@@ -54,17 +54,20 @@ Here are some ideas to get you started:
 <!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alvaro220592)](https://github.com/alvaro220592/github-readme-stats)-->
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alvaro220592&layout=compact)](https://github.com/alvaro220592/github-readme-stats)
 
-### Assistir: API em Laravel com MySQL no ambiente Docker (Laradock)
+## Assista meus projetos pessoais:
+
+### API em Laravel com MySQL no ambiente Docker (Laradock)
+https://github.com/alvaro220592/api_laradock
 [![API em Laravel com MySQL no ambiente Docker (Laradock)](https://github.com/alvaro220592/alvaro220592/blob/main/api_laradock3.png)](https://youtu.be/EGVpExnAyxg)
 
-### Assistir: sistema de login em Laravel Jetstream
+### Sistema de login em Laravel Jetstream
 [![Sistema de login com Laravel Jetstream](https://github.com/alvaro220592/alvaro220592/blob/main/laravel-jetstream3.png)](https://youtu.be/cMPRDqOxzkA)
 
-### Assistir: coletor de dados de .pdf para .xlsx em Python
+### Coletor de dados de .pdf para .xlsx em Python
 [![Coletor de dados de .pdf para .xlsx](https://github.com/alvaro220592/alvaro220592/blob/main/pdf_to_xlsx3.png)](https://youtu.be/5_qdf0ozN5o)
 
-### Assistir: Jogo da forca em Python
+### Jogo da forca em Python
 [![Sistema de login com Laravel Jetstream](https://github.com/alvaro220592/alvaro220592/blob/main/forca3.png)](https://youtu.be/LxHXcVkbG-4)
 
-### Assistir: Resumo - Sistema de controle de estoque em PHP (TCC)
+### Resumo - Sistema de controle de estoque em PHP (TCC)
 [![Sistema de login com Laravel Jetstream](https://github.com/alvaro220592/alvaro220592/blob/main/tcc4.png)](https://youtu.be/shCmcqlcBgU)

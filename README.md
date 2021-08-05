@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<div style="dysplay:inline; margin-top: 90px;">
+<div style="dysplay:inline;">
   
 <!-- HTML -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width=50 margin=10>
@@ -40,6 +40,7 @@ Here are some ideas to get you started:
   <!-- Docker -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" width=50 margin=10>
 </div>
+<br>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=alvaro220592&show_icons=true&theme=cobalt)
 

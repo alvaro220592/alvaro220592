@@ -61,4 +61,4 @@ Here are some ideas to get you started:
 [![Sistema de login com Laravel Jetstream](https://github.com/alvaro220592/alvaro220592/blob/main/forca3.png)](https://youtu.be/LxHXcVkbG-4)
 
 ### Assistir: Resumo - Sistema de controle de estoque em PHP (TCC)
-[![Sistema de login com Laravel Jetstream](https://github.com/alvaro220592/alvaro220592/blob/main/tcc3.png)](https://youtu.be/shCmcqlcBgU)
+[![Sistema de login com Laravel Jetstream](https://github.com/alvaro220592/alvaro220592/blob/main/tcc4.png)](https://youtu.be/shCmcqlcBgU)

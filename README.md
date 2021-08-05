@@ -54,8 +54,10 @@ Here are some ideas to get you started:
 <!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alvaro220592)](https://github.com/alvaro220592/github-readme-stats)-->
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alvaro220592&layout=compact)](https://github.com/alvaro220592/github-readme-stats)
 
-<h2 style="align:center">Assista meus projetos pessoais:</h2>
-
+<div style="text-align:center">
+<h2>Assista meus projetos pessoais:</h2>
+</div>
+  
 ### API em Laravel com MySQL no ambiente Docker (Laradock)
 [![API em Laravel com MySQL no ambiente Docker (Laradock)](https://github.com/alvaro220592/alvaro220592/blob/main/api_laradock3.png)](https://youtu.be/EGVpExnAyxg)
 

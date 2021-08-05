@@ -41,13 +41,12 @@ Here are some ideas to get you started:
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" width=50 margin=10>
 </div>
 
-<div>
 ### Meu status
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=alvaro220592&show_icons=true&theme=cobalt)
 
 ### Linguagens mais usadas
 <!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alvaro220592)](https://github.com/alvaro220592/github-readme-stats)-->
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alvaro220592&layout=compact)](https://github.com/alvaro220592/github-readme-stats)
-</div>
+
 
 

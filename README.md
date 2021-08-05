@@ -49,7 +49,7 @@ Here are some ideas to get you started:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alvaro220592&layout=compact)](https://github.com/alvaro220592/github-readme-stats)
 
 ### Assistir: API em Laravel com MySQL no ambiente Docker (Laradock)
-[![API em Laravel com MySQL no ambiente Docker (Laradock)](https://github.com/alvaro220592/alvaro220592/blob/main/api_laradock2.png)](https://youtu.be/EGVpExnAyxg)
+[![API em Laravel com MySQL no ambiente Docker (Laradock)](https://github.com/alvaro220592/alvaro220592/blob/main/api_laradock.png)](https://youtu.be/EGVpExnAyxg)
 
 ### Assistir: coletor de dados de .pdf para .xlsx em Python
 [![Coletor de dados de .pdf para .xlsx](https://github.com/alvaro220592/alvaro220592/blob/main/pdf_to_xlsx2.png)](https://youtu.be/5_qdf0ozN5o)

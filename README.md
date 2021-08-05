@@ -52,7 +52,7 @@ Here are some ideas to get you started:
 [![API em Laravel com MySQL no ambiente Docker (Laradock)](https://github.com/alvaro220592/alvaro220592/blob/main/api_laradock3.png)](https://youtu.be/EGVpExnAyxg)
 
 ### Assistir: coletor de dados de .pdf para .xlsx em Python
-[![Coletor de dados de .pdf para .xlsx](https://github.com/alvaro220592/alvaro220592/blob/main/pdf_to_xlsx2.png)](https://youtu.be/5_qdf0ozN5o)
+[![Coletor de dados de .pdf para .xlsx](https://github.com/alvaro220592/alvaro220592/blob/main/pdf_to_xlsx3.png)](https://youtu.be/5_qdf0ozN5o)
 
 ### Assistir: sistema de login em Laravel Jetstream
-[![Sistema de login com Laravel Jetstream](https://github.com/alvaro220592/alvaro220592/blob/main/laravel-jetstream2.png)](https://youtu.be/cMPRDqOxzkA)
+[![Sistema de login com Laravel Jetstream](https://github.com/alvaro220592/alvaro220592/blob/main/laravel-jetstream3.png)](https://youtu.be/cMPRDqOxzkA)

@@ -1,4 +1,7 @@
-### My skills ⚡
+### Olá!
+Meu nome é Álvaro e aqui é onde eu ponho minhas ideias, projetos e estudos.
+
+### Habilidades ⚡
 
 <!--
 **alvaro220592/alvaro220592** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

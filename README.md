@@ -48,4 +48,5 @@ Here are some ideas to get you started:
 <!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alvaro220592)](https://github.com/alvaro220592/github-readme-stats)-->
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alvaro220592&layout=compact)](https://github.com/alvaro220592/github-readme-stats)
 
-
+### Assistir: sistema de login em Laravel Jetstream
+[![Sistema de login com Laravel Jetstream](https://github.com/alvaro220592/alvaro220592/blob/main/laravel-jetstream.png)](https://youtu.be/cMPRDqOxzkA)

@@ -57,6 +57,8 @@ Here are some ideas to get you started:
 ### Assistir: coletor de dados de .pdf para .xlsx em Python
 [![Coletor de dados de .pdf para .xlsx](https://github.com/alvaro220592/alvaro220592/blob/main/pdf_to_xlsx3.png)](https://youtu.be/5_qdf0ozN5o)
 
-
 ### Assistir: Jogo da forca em Python
 [![Sistema de login com Laravel Jetstream](https://github.com/alvaro220592/alvaro220592/blob/main/forca3.png)](https://youtu.be/LxHXcVkbG-4)
+
+### Assistir: Resumo - Sistema de controle de estoque em PHP (TCC)
+[![Sistema de login com Laravel Jetstream](https://github.com/alvaro220592/alvaro220592/blob/main/tcc3.png)](https://youtu.be/shCmcqlcBgU)

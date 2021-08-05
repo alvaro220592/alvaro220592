@@ -41,3 +41,5 @@ Here are some ideas to get you started:
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" width=50 margin=10>
 </div>
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=alvaro220592&show_icons=true&theme=radical)
+

@@ -16,9 +16,9 @@ Here are some ideas to get you started:
 -->
 <div style="dysplay:inline;">
 <!-- HTML -->
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width=50 margin=10>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width=40 margin=10>
 <!-- CSS -->
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width=50 margin=10>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width=40 margin=10>
 <!-- PHP -->
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" width=60 margin=10>
 <!-- MySQL -->

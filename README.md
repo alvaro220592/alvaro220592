@@ -57,22 +57,21 @@ Here are some ideas to get you started:
 ## :clapper: Assista meus projetos pessoais clicando nas imagens:
   
 ### API em Laravel com MySQL no ambiente Docker (Laradock)
-#### https://github.com/alvaro220592/api_laradock
 [![API em Laravel com MySQL no ambiente Docker (Laradock)](https://github.com/alvaro220592/alvaro220592/blob/main/api_laradock3.png)](https://youtu.be/EGVpExnAyxg)
+#### Código: https://github.com/alvaro220592/api_laradock
 
 ### Sistema de login em Laravel Jetstream
-
 [![Sistema de login com Laravel Jetstream](https://github.com/alvaro220592/alvaro220592/blob/main/laravel-jetstream3.png)](https://youtu.be/cMPRDqOxzkA)
-#### https://github.com/alvaro220592/sistLogin
+#### Código: https://github.com/alvaro220592/sistLogin
 
 ### Coletor de dados de .pdf para .xlsx em Python
-#### https://github.com/alvaro220592/pdf_to_xlsx
 [![Coletor de dados de .pdf para .xlsx](https://github.com/alvaro220592/alvaro220592/blob/main/pdf_to_xlsx3.png)](https://youtu.be/5_qdf0ozN5o)
+#### Código: https://github.com/alvaro220592/pdf_to_xlsx
 
 ### Jogo da forca em Python
-#### https://github.com/alvaro220592/forca
 [![Sistema de login com Laravel Jetstream](https://github.com/alvaro220592/alvaro220592/blob/main/forca3.png)](https://youtu.be/LxHXcVkbG-4)
+#### Código: https://github.com/alvaro220592/forca
 
 ### Resumo - Sistema de controle de estoque em PHP (TCC)
-#### https://github.com/alvaro220592/crud-ccmed
 [![Sistema de login com Laravel Jetstream](https://github.com/alvaro220592/alvaro220592/blob/main/tcc4.png)](https://youtu.be/shCmcqlcBgU)
+#### Código: https://github.com/alvaro220592/crud-ccmed

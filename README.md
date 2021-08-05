@@ -56,8 +56,8 @@ Here are some ideas to get you started:
 
 ## :clapper: Assista meus projetos pessoais:
   
-### API em Laravel com MySQL no ambiente Docker (Laradock)
-#### 	:arrow_forward: https://github.com/alvaro220592/api_laradock
+### :arrow_forward: API em Laravel com MySQL no ambiente Docker (Laradock)
+#### https://github.com/alvaro220592/api_laradock
 [![API em Laravel com MySQL no ambiente Docker (Laradock)](https://github.com/alvaro220592/alvaro220592/blob/main/api_laradock3.png)](https://youtu.be/EGVpExnAyxg)
 
 ### Sistema de login em Laravel Jetstream

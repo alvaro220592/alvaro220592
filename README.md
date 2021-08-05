@@ -49,7 +49,8 @@ Here are some ideas to get you started:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alvaro220592&layout=compact)](https://github.com/alvaro220592/github-readme-stats)
 
 ### Assistir: coletor de dados de .pdf para .xlsx
-[![Coletor de dados de .pdf para .xlsx](https://github.com/alvaro220592/alvaro220592/blob/main/pdf_to_xlsx.png)](https://youtu.be/5_qdf0ozN5o)
-
+</div style="width:300">
+  [![Coletor de dados de .pdf para .xlsx](https://github.com/alvaro220592/alvaro220592/blob/main/pdf_to_xlsx.png)](https://youtu.be/5_qdf0ozN5o)
+</div>
 ### Assistir: sistema de login em Laravel Jetstream
 [![Sistema de login com Laravel Jetstream](https://github.com/alvaro220592/alvaro220592/blob/main/laravel-jetstream.png)](https://youtu.be/cMPRDqOxzkA)

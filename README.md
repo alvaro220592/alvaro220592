@@ -55,6 +55,7 @@ Here are some ideas to get you started:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alvaro220592&layout=compact)](https://github.com/alvaro220592/github-readme-stats)
 
 ## :clapper: Assista meus projetos pessoais:
+#### Clique nas imagens para assistir
   
 ### :arrow_forward: API em Laravel com MySQL no ambiente Docker (Laradock)
 #### https://github.com/alvaro220592/api_laradock

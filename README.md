@@ -6,6 +6,7 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width=50 margin=10>
   </a>
 </p>
+
 ### Habilidades ⚡
 
 <!--

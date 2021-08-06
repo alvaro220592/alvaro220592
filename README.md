@@ -1,5 +1,5 @@
 ### Olá!
-Meu nome é Álvaro e aqui é onde eu ponho minhas ideias, projetos e estudos.
+Meu nome é Álvaro e aqui é onde eu ponho minhas ideias, projetos e estudos. <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original-wordmark.svg" width=50 margin=10>
 
 ### Habilidades ⚡
 
@@ -46,9 +46,6 @@ Here are some ideas to get you started:
   <!-- Linux -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width=50 margin=10>
 </div>
-
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original-wordmark.svg" width=50 margin=10>
 
 <br>
 

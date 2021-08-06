@@ -1,9 +1,11 @@
 ### Olá!
 <p>Meu nome é Álvaro e aqui é onde eu ponho minhas ideias, projetos e estudos.</p>
 
-<a href="https://www.linkedin.com/in/alvaro220592/">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width=50 margin=10>
-</a>
+<p>
+  <a href="https://www.linkedin.com/in/alvaro220592/">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width=50 margin=10>
+  </a>
+</p>
 ### Habilidades ⚡
 
 <!--

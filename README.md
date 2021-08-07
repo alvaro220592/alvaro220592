@@ -59,10 +59,10 @@ Here are some ideas to get you started:
 
 <br>
 
-<div style="display:inline; width="100px">
-
+<div style="display:inline;">
+<div style="width:40">
   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=alvaro220592&show_icons=true&theme=cobalt)
-
+</div>
   <!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alvaro220592)](https://github.com/alvaro220592/github-readme-stats)-->
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alvaro220592&layout=compact)](https://github.com/alvaro220592/github-readme-stats)
 

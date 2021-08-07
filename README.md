@@ -51,6 +51,10 @@ Here are some ideas to get you started:
   
   <!-- Linux -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width=50 margin=10>
+  
+  <!-- Git -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width=50 margin=10>
+  
 </div>
 
 <br>

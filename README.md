@@ -1,6 +1,5 @@
+<img src="https://github.com/alvaro220592/alvaro220592/blob/main/cyberpunk-car.gif" width=250 margin=10>
 ### Olá!
-<img src="https://github.com/alvaro220592/alvaro220592/blob/main/tokyo.gif" width=250 margin=10>
-
 #### Meu nome é Álvaro e é aqui que eu divulgo minhas ideias, projetos e estudos.
 
 <p>

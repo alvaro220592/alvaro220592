@@ -62,7 +62,7 @@ Here are some ideas to get you started:
 <br>
 
 <div style="display:flex">
-  <div width:50>
+  <div width:50px>
   
   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=alvaro220592&show_icons=true&theme=cobalt)
     

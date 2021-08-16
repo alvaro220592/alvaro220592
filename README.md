@@ -1,5 +1,5 @@
 ### Olá!
-<img src="https://github.com/alvaro220592/alvaro220592/blob/main/cyberpunk-car.gif" width=250 margin=10></img>
+<img src="https://github.com/alvaro220592/alvaro220592/blob/main/cyberpunk.gif" width=250 margin=10></img>
 
 #### Meu nome é Álvaro e é aqui que eu divulgo minhas ideias, projetos e estudos.
 Linkedin: 

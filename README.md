@@ -1,4 +1,4 @@
-<img src="https://github.com/alvaro220592/alvaro220592/blob/main/tokyo.gif" width=40%></img>
+<img src="https://github.com/alvaro220592/alvaro220592/blob/main/tokyo.gif" width=60% height=200px></img>
 ### Olá!
 #### Meu nome é Álvaro e é aqui que eu divulgo minhas ideias, projetos e estudos.
 Linkedin: 

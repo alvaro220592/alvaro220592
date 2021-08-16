@@ -1,5 +1,7 @@
 ### Olá!
-#### Meu nome é Álvaro e é aqui onde eu divulgo minhas ideias, projetos e estudos.
+<img src="https://github.com/alvaro220592/alvaro220592/blob/main/tokyo.gif" width=250 margin=10>
+
+#### Meu nome é Álvaro e é aqui que eu divulgo minhas ideias, projetos e estudos.
 
 <p>
   <a href="https://www.linkedin.com/in/alvaro220592/">

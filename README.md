@@ -1,5 +1,5 @@
 ### Olá!
-<img src="https://github.com/alvaro220592/alvaro220592/blob/main/cyberpunk.gif" width=250 margin=10></img>
+<img src="https://github.com/alvaro220592/alvaro220592/blob/main/cyberpunk.gif" width=300 height=400 margin=10></img>
 
 #### Meu nome é Álvaro e é aqui que eu divulgo minhas ideias, projetos e estudos.
 Linkedin: 
@@ -33,6 +33,9 @@ Here are some ideas to get you started:
   
   <!-- Bootstrap -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg" width=50 margin=10>
+  
+  <!-- jQuery -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original-wordmark.svg" width=50 margin=10>
   
   <!-- PHP -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" width=60 margin=10>

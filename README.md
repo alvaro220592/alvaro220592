@@ -62,11 +62,15 @@ Here are some ideas to get you started:
 <br>
 
 <div style="display:flex">
+  <div style="width:50%">
   
   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=alvaro220592&show_icons=true&theme=cobalt)
+    
+  </div>
   
   <!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alvaro220592)](https://github.com/alvaro220592/github-readme-stats)-->
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alvaro220592&layout=compact)](https://github.com/alvaro220592/github-readme-stats)
+  
 </div>
 
 ## :clapper: Assista meus projetos pessoais clicando nas imagens:

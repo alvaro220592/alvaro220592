@@ -1,4 +1,4 @@
-<img src="https://github.com/alvaro220592/alvaro220592/blob/main/cyberpunk.gif" width=70% height=300 margin="0 auto"></img>
+<img src="https://github.com/alvaro220592/alvaro220592/blob/main/cyberpunk.gif" width=70% height=300 margin="auto"></img>
 ### Olá!
 #### Meu nome é Álvaro e é aqui que eu divulgo minhas ideias, projetos e estudos.
 Linkedin: 

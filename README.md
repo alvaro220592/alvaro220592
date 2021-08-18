@@ -74,7 +74,8 @@ Here are some ideas to get you started:
 ### API em Laravel com MySQL no ambiente Docker (Laradock)
 [![API em Laravel com MySQL no ambiente Docker (Laradock)](https://github.com/alvaro220592/alvaro220592/blob/main/api_laradock3.png)](https://youtu.be/EGVpExnAyxg)
 #### Código: https://github.com/alvaro220592/api_laradock
-<hr>
+<hr></hr>
+
 ### Consumo da API ViaCep para retorno de dados de endereço e autopreenchimento de formulário
 [![Consumo da API ViaCep para retorno de dados de endereço e autopreenchimento de formulário](https://github.com/alvaro220592/alvaro220592/blob/main/print2.PNG)](https://youtu.be/UYD7PukX6y8)
 #### Código: https://github.com/alvaro220592/integViaCep

@@ -79,19 +79,24 @@ Here are some ideas to get you started:
 ### Consumo da API ViaCep para retorno de dados de endereço e autopreenchimento de formulário
 [![Consumo da API ViaCep para retorno de dados de endereço e autopreenchimento de formulário](https://github.com/alvaro220592/alvaro220592/blob/main/print2.PNG)](https://youtu.be/UYD7PukX6y8)
 #### Código: https://github.com/alvaro220592/integViaCep
+<hr></hr>
 
 ### Sistema de login em Laravel Jetstream
 [![Sistema de login com Laravel Jetstream](https://github.com/alvaro220592/alvaro220592/blob/main/laravel-jetstream3.png)](https://youtu.be/cMPRDqOxzkA)
 #### Código: https://github.com/alvaro220592/sistLogin
+<hr></hr>
 
 ### Coletor de dados de .pdf para .xlsx em Python
 [![Coletor de dados de .pdf para .xlsx](https://github.com/alvaro220592/alvaro220592/blob/main/pdf_to_xlsx3.png)](https://youtu.be/5_qdf0ozN5o)
 #### Código: https://github.com/alvaro220592/pdf_to_xlsx
+<hr></hr>
 
 ### Jogo da forca em Python
 [![Sistema de login com Laravel Jetstream](https://github.com/alvaro220592/alvaro220592/blob/main/forca3.png)](https://youtu.be/LxHXcVkbG-4)
 #### Código: https://github.com/alvaro220592/forca
+<hr></hr>
 
 ### Resumo - Sistema de controle de estoque em PHP (TCC)
 [![Sistema de login com Laravel Jetstream](https://github.com/alvaro220592/alvaro220592/blob/main/tcc4.png)](https://youtu.be/shCmcqlcBgU)
 #### Código: https://github.com/alvaro220592/crud-ccmed
+<hr></hr>

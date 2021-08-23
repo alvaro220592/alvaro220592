@@ -1,4 +1,4 @@
-<img src="https://github.com/alvaro220592/alvaro220592/blob/main/cyberpunk-city.gif" width=100% height=200px></img>
+<img src="https://github.com/alvaro220592/alvaro220592/blob/main/cyberpunk-spaceship.gif" width=50%></img>
 ### Olá!
 #### Meu nome é Álvaro e é aqui que eu divulgo minhas ideias, projetos e estudos.
 Linkedin: 
@@ -55,9 +55,7 @@ Here are some ideas to get you started:
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width=50 margin=10>
   
   <!-- Git -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width=50 margin=10>
-  
-  <img src="https://github.com/alvaro220592/alvaro220592/blob/main/cyberpunk-spaceship.gif" width=50></img>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width=50 margin=10></img>
   
 </div>
 

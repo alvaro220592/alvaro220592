@@ -1,4 +1,4 @@
-<img src="https://github.com/alvaro220592/alvaro220592/blob/main/cyberpunk-spaceship.gif" width=50%></img>
+<img src="https://github.com/alvaro220592/alvaro220592/blob/main/cyberpunk-spaceship.gif" width=80% height=150px></img>
 ### Olá!
 #### Meu nome é Álvaro e é aqui que eu divulgo minhas ideias, projetos e estudos.
 Linkedin: 

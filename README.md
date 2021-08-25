@@ -62,14 +62,19 @@ Here are some ideas to get you started:
 <br>
 
   
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=alvaro220592&show_icons=true&theme=cobalt)
-    
-  
-  <!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alvaro220592)](https://github.com/alvaro220592/github-readme-stats)-->
-  <img height="180em"  align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alvaro220592&&layout=compact&hide=shell&theme=jolly">
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=alvaro220592&show_icons=true&theme=cobalt)
+
+
+<!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alvaro220592)](https://github.com/alvaro220592/github-readme-stats)-->
+<img height="180em"  align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alvaro220592&&layout=compact&hide=shell&theme=jolly">
   
 
 ## :clapper: Assista meus projetos pessoais clicando nas imagens:
+
+### Sistema de agendamento de petshop com Laravel 8, MySQL, jQuery, Ajax
+[![Sistema de agendamento de petshop com Laravel 8, MySQL, jQuery, Ajax](https://github.com/alvaro220592/alvaro220592/blob/main/PetFriendGif.gif)](https://youtu.be/R-zjwqTjuzI)
+#### Código: https://github.com/alvaro220592/petFriend-laravel
+<hr></hr>
   
 ### API em Laravel com MySQL no ambiente Docker (Laradock)
 [![API em Laravel com MySQL no ambiente Docker (Laradock)](https://github.com/alvaro220592/alvaro220592/blob/main/api_laradock3.png)](https://youtu.be/EGVpExnAyxg)

@@ -60,8 +60,10 @@ Here are some ideas to get you started:
   <!-- Vim -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" width=50 margin=10>
   
+  <img src="https://img.icons8.com/ios-filled/50/000000/console.png" width=50 margin=10>
+  
   <!-- Git -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width=50 margin=10></img>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width=50 margin=10>
   
   <!-- Trello -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain-wordmark.svg" width=50 margin=10></img>

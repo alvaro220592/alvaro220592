@@ -54,8 +54,17 @@ Here are some ideas to get you started:
   <!-- Linux -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width=50 margin=10>
   
+  <!-- Ubuntu -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain-wordmark.svg" width=50 margin=10>
+  
+  <!-- Vim -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" width=50 margin=10>
+  
   <!-- Git -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width=50 margin=10></img>
+  
+  <!-- Trello -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain-wordmark.svg" width=50 margin=10></img>
   
 </div>
 

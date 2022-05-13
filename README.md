@@ -82,6 +82,11 @@ Here are some ideas to get you started:
 
 ## :clapper: Assista meus projetos pessoais clicando nas imagens:
 
+### Funcionalidade de drag & drop tipo Trello em Laravel com JQuery e Ajax
+[![Funcionalidade de drag & drop tipo Trello em Laravel com JQuery e Ajax](https://github.com/alvaro220592/alvaro220592/blob/main/teste_drag_drop.gif)
+#### Código: https://github.com/alvaro220592/teste_drag_drop
+<hr></hr>
+
 ### Sistema de agendamento de petshop com Laravel 8, MySQL, jQuery, Ajax
 [![Sistema de agendamento de petshop com Laravel 8, MySQL, jQuery, Ajax](https://github.com/alvaro220592/alvaro220592/blob/main/PetFriendGif.gif)](https://youtu.be/R-zjwqTjuzI)
 #### Código: https://github.com/alvaro220592/petFriend-laravel

@@ -70,15 +70,7 @@ Here are some ideas to get you started:
   
 </div>
 
-<br>
-
-  
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=alvaro220592&show_icons=true&theme=cobalt)
-
-
-<!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alvaro220592)](https://github.com/alvaro220592/github-readme-stats)-->
-<img height="180em"  align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alvaro220592&&layout=compact&hide=shell&theme=jolly">
-  
+<br>  
 
 ## :clapper: Assista meus projetos pessoais clicando nas imagens:
 
